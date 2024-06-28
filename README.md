@@ -14,7 +14,7 @@ This project imports annotation data from a JSON file into a PostgreSQL database
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <[https://github.com/Dilnazamanzholova22052006/aitu-edu-practice-main.git]>
 cd <repository-directory>
 ```
 
